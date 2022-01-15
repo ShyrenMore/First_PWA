@@ -32,5 +32,5 @@
 
 ### Manifest.json file
 
-- specify about our app like short_name, name, 
+- specify about our app like short_name, name, theme_color for android app
 - object keys have to be enclosed inside double quotes 
