@@ -1,3 +1,25 @@
+## What is this thing?
+
+- A simple progressive web application that shows you weather for any city
+- Built using React.js and OpenWeatherAPI 
+
+## How to install it on mobile?
+
+- Open this website on your device: [https://pwa-reactjs-weather-app.netlify.app/](https://pwa-reactjs-weather-app.netlify.app/)
+
+- click on ``` : ```, select ```Add to Home Screen```
+
+<p align="center">
+<img src="assets/add.jfif" width="480px" alt="add" title="add to home screen"/>
+</p>
+
+- click on ```Install```
+
+<p align="center">
+<img src="assets/option.jfif" width="480px" alt="Install" title="Install"/>
+</p>
+
+
 ## Some PWA concepts
 
 ### Service worker
